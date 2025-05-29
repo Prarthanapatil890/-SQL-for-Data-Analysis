@@ -4,7 +4,7 @@ Ecommerce SQL Project
 
 - MySQL installed
 - Command Prompt or Terminal access
-
+-MySQL Workbench
 🏗 Database Setup
 
 Create database:
